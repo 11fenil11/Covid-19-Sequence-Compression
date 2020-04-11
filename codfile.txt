@@ -1,0 +1,4 @@
+C ||  Freq=5492  ||   Codeword=11
+G ||  Freq=5863  ||   Codeword=10
+A ||  Freq=8954  ||   Codeword=01
+T ||  Freq=9594  ||   Codeword=00
